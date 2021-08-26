@@ -47,7 +47,7 @@ function setup() {
     120
   );
   
-  arrow = new   PlayerArrow(playerArcher.body.position.x, playerArcher.body.position.y, 100, 10);
+  arrow = new PlayerArrow(playerArcher.body.position.x, playerArcher.body.position.y, 100, 10);
   
 }
 
